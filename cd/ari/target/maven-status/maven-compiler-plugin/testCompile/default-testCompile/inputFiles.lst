@@ -1,0 +1,12 @@
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/bucks/domain/repositories/BucksRepositoryTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/customers/resources/CustomersResourceTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/customers/resources/CustomerResourceTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/schemaValidations/SchemasContainerTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/customers/domain/factories/CustomersFactoryTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/customers/domain/repositories/CustomersRepositoryTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/customers/domain/CustomerTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/heartbeat/HeartbeatResourceTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/bucks/resources/BucksResourceTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/assemblers/HypermediaAssemblerTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/customers/resources/assemblers/CustomersAssemblerTest.java
+/root/microservices/hms-code/cd/ari/src/test/java/io/ari/schema/SchemaTest.java

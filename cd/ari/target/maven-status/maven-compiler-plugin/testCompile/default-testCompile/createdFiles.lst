@@ -1,0 +1,12 @@
+io/ari/bucks/resources/BucksResourceTest.class
+io/ari/customers/domain/CustomerTest.class
+io/ari/schema/SchemaTest.class
+io/ari/customers/domain/factories/CustomersFactoryTest.class
+io/ari/customers/resources/assemblers/CustomersAssemblerTest.class
+io/ari/customers/resources/CustomersResourceTest.class
+io/ari/customers/resources/CustomerResourceTest.class
+io/ari/schemaValidations/SchemasContainerTest.class
+io/ari/customers/domain/repositories/CustomersRepositoryTest.class
+io/ari/assemblers/HypermediaAssemblerTest.class
+io/ari/heartbeat/HeartbeatResourceTest.class
+io/ari/bucks/domain/repositories/BucksRepositoryTest.class
